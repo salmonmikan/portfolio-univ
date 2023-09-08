@@ -1,2 +1,2 @@
 # portfolio-univ
-my portfolio.
+my portfolio. URL is https://salmonmikan.github.io/portfolio-univ/

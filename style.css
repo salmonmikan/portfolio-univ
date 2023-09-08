@@ -68,11 +68,11 @@ li {
   opacity: 0.5;
 }
 
-/*Main-visual*/
-#main-visual {
+/*top-img*/
+#top-img {
   margin-bottom: 80px;
 }
-#main-visual img {
+#top-img img {
   width: 100%;
   max-width: 1920px;
   height: 600px;
@@ -100,9 +100,10 @@ li {
 #content ul {
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
 }
 #content li {
-  width: 32%;
+  width: 30%;
 }
 
 /*footer*/
